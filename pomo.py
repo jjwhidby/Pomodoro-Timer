@@ -57,7 +57,7 @@ status_label = Label(root, font=('Arial', 25), text=current_status )
 # Layout the widgets
 timer_label.pack(pady=20)
 start_button.pack(pady=20)
-status_label.pack()
+
 
 #Run the main loop
 root.mainloop()
