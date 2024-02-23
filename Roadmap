@@ -1,5 +1,11 @@
 To-Do
 Add different timer length
+Add sound effects for start/stop and breaks
+Track completed Pomodoro cycles
+Add a progress bar
+Use a different GUI library like PyQt
+Add custom timer lengths
+Save and load user preferences
 
 In Progress
 Add status label
